@@ -4,26 +4,26 @@
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P1.** |兩數之和 (Two Sum)|[https://github.com/rgyu-gao/Coding-study-Python/commit/18d7d384c1d87842148fbb7036508cc084164b2b](https://github.com/rgyu-gao/Coding-study-Python/blob/main/兩數之和%20(Two%20Sum)/p1-1.py)|
-| **P2** |圓面積計算 (Circle Area)  |https://github.com/rgyu-gao/Coding-study-Python/commit/187d63e28d43eb4bcf4649cf874435211aad4ff0|
-| **P3** |溫標轉換 (Temperature Conversion)|https://github.com/rgyu-gao/Coding-study-Python/commit/2b194b8fd90891be4cc9c4aeb51bde5ae8986a5f|  
-| **P4** |變數交換 (Variable Swap)|https://github.com/rgyu-gao/Coding-study-Python/commit/e8629b4203d2ac84f6b5ba4d7837cfc66b1b03c9| 
-| **P5** |BMI 計算器 (BMI Calculator)|https://github.com/rgyu-gao/Coding-study-Python/commit/660696f97fae4693a6610b247f4f38e8c25a5b2f|  
+| **P2** |圓面積計算 (Circle Area)  |[https://github.com/rgyu-gao/Coding-study-Python/commit/187d63e28d43eb4bcf4649cf874435211aad4ff0](https://github.com/rgyu-gao/Coding-study-Python/blob/main/圓面積計算%20(Circle%20Area)/p1-2.py)|
+| **P3** |溫標轉換 (Temperature Conversion)|[https://github.com/rgyu-gao/Coding-study-Python/commit/2b194b8fd90891be4cc9c4aeb51bde5ae8986a5f](https://github.com/rgyu-gao/Coding-study-Python/blob/main/溫標轉換%20(Temperature%20Conversion)/p1-3.py)|  
+| **P4** |變數交換 (Variable Swap)|[https://github.com/rgyu-gao/Coding-study-Python/commit/e8629b4203d2ac84f6b5ba4d7837cfc66b1b03c9](https://github.com/rgyu-gao/Coding-study-Python/blob/main/變數交換%20(Variable%20Swap)/p1-4.py)| 
+| **P5** |BMI 計算器 (BMI Calculator)|[https://github.com/rgyu-gao/Coding-study-Python/commit/660696f97fae4693a6610b247f4f38e8c25a5b2f](https://github.com/rgyu-gao/Coding-study-Python/blob/main/BMI%20計算器%20(BMI%20Calculator)/p1-5.py)|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P6** |奇偶數判斷 (Odd or Even)|https://github.com/rgyu-gao/Coding-study-Python/commit/be50e80b036adcca3ead51dbb54b084d88e307a9|
-| **P7** |閏年判斷 (Leap Year Check)|https://github.com/rgyu-gao/Coding-study-Python/commit/56cf8a7535982deec9daa9df2bfdca52a5955bf1|
-| **P8** |三數取最大值 (Find the Maximum)|https://github.com/rgyu-gao/Coding-study-Python/commit/62b58bbb76d80b02c0411e4f68e9d08e7147b8d2|  
-| **P9** |成績評等 (Grade Classification)|https://github.com/rgyu-gao/Coding-study-Python/commit/615bbc4db4290d5a6c42cfdee489d03354851101| 
-| **P10** |正負數判斷 (Positive, Negative, or Zero)|https://github.com/rgyu-gao/Coding-study-Python/commit/cdceb35a3c9b7278b1ab13cf11a6058ebf5ceb4e|  
+| **P6** |奇偶數判斷 (Odd or Even)|[https://github.com/rgyu-gao/Coding-study-Python/commit/be50e80b036adcca3ead51dbb54b084d88e307a9](https://github.com/rgyu-gao/Coding-study-Python/blob/main/奇偶數判斷%20(Odd%20or%20Even)/p1-6.py)|
+| **P7** |閏年判斷 (Leap Year Check)|[https://github.com/rgyu-gao/Coding-study-Python/commit/56cf8a7535982deec9daa9df2bfdca52a5955bf1](https://github.com/rgyu-gao/Coding-study-Python/blob/main/閏年判斷%20(Leap%20Year%20Check)/p1-7.py)|
+| **P8** |三數取最大值 (Find the Maximum)|[https://github.com/rgyu-gao/Coding-study-Python/commit/62b58bbb76d80b02c0411e4f68e9d08e7147b8d2](https://github.com/rgyu-gao/Coding-study-Python/blob/main/三數取最大值%20(Find%20the%20Maximum)/p1-8.py)|  
+| **P9** |成績評等 (Grade Classification)|[https://github.com/rgyu-gao/Coding-study-Python/commit/615bbc4db4290d5a6c42cfdee489d03354851101](https://github.com/rgyu-gao/Coding-study-Python/blob/main/成績評等%20(Grade%20Classification)/p1-9.py)| 
+| **P10** |正負數判斷 (Positive, Negative, or Zero)|[https://github.com/rgyu-gao/Coding-study-Python/commit/cdceb35a3c9b7278b1ab13cf11a6058ebf5ceb4e](https://github.com/rgyu-gao/Coding-study-Python/blob/main/正負數判斷%20(Positive%2C%20Negative%2C%20or%20Zero)/p1-10.py)|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P11** |累加求和 (1 ~ 100)|https://github.com/rgyu-gao/Coding-study-Python/commit/662e4688e5fa6ba9296f9e097b71872fc1410207|
-| **P12** |九九乘法表 (Multiplication Table)|https://github.com/rgyu-gao/Coding-study-Python/commit/e565b9ea37c654415794e6d2421a6bb8e51a21c4|
-| **P13** |階乘計算 (Factorial)|https://github.com/rgyu-gao/Coding-study-Python/commit/521f6e4ba2f4ebcde7671bfc7c4570cc2879afaf|  
-| **P14** |費氏數列 (Fibonacci Sequence)|https://github.com/rgyu-gao/Coding-study-Python/commit/fff7af9ff374b515830e2ebe4797beaf54cc61e7| 
-| **P15** |質數判斷 (Prime Number Check)|https://github.com/rgyu-gao/Coding-study-Python/commit/b237ee19d2aa538525622d38131851405c8d6726|  
+| **P11** |累加求和 (1 ~ 100)|[https://github.com/rgyu-gao/Coding-study-Python/commit/662e4688e5fa6ba9296f9e097b71872fc1410207](https://github.com/rgyu-gao/Coding-study-Python/blob/main/累加求和%20(1%20~%20100)/p1-11.py)|
+| **P12** |九九乘法表 (Multiplication Table)|[https://github.com/rgyu-gao/Coding-study-Python/commit/e565b9ea37c654415794e6d2421a6bb8e51a21c4](https://github.com/rgyu-gao/Coding-study-Python/blob/main/九九乘法表%20(Multiplication%20Table)/p1-12.py)|
+| **P13** |階乘計算 (Factorial)|[https://github.com/rgyu-gao/Coding-study-Python/commit/521f6e4ba2f4ebcde7671bfc7c4570cc2879afaf](https://github.com/rgyu-gao/Coding-study-Python/blob/main/階乘計算%20(Factorial)/p1-13.py)|  
+| **P14** |費氏數列 (Fibonacci Sequence)|[https://github.com/rgyu-gao/Coding-study-Python/commit/fff7af9ff374b515830e2ebe4797beaf54cc61e7](https://github.com/rgyu-gao/Coding-study-Python/blob/main/費氏數列%20(Fibonacci%20Sequence)/p1-14.py)| 
+| **P15** |質數判斷 (Prime Number Check)|[https://github.com/rgyu-gao/Coding-study-Python/commit/b237ee19d2aa538525622d38131851405c8d6726](https://github.com/rgyu-gao/Coding-study-Python/blob/main/質數判斷%20(Prime%20Number%20Check)/p1-15.py)|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
