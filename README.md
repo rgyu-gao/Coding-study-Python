@@ -3,7 +3,7 @@
 第一階段：基本運算與輸入輸出 (1-5)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1.** |兩數之和 (Two Sum)|https://github.com/rgyu-gao/Coding-study-Python/commit/18d7d384c1d87842148fbb7036508cc084164b2b|
+| **P1.** |兩數之和 (Two Sum)|[https://github.com/rgyu-gao/Coding-study-Python/commit/18d7d384c1d87842148fbb7036508cc084164b2b](https://github.com/rgyu-gao/Coding-study-Python/blob/main/兩數之和%20(Two%20Sum)/p1-1.py)|
 | **P2** |圓面積計算 (Circle Area)  |https://github.com/rgyu-gao/Coding-study-Python/commit/187d63e28d43eb4bcf4649cf874435211aad4ff0|
 | **P3** |溫標轉換 (Temperature Conversion)|https://github.com/rgyu-gao/Coding-study-Python/commit/2b194b8fd90891be4cc9c4aeb51bde5ae8986a5f|  
 | **P4** |變數交換 (Variable Swap)|https://github.com/rgyu-gao/Coding-study-Python/commit/e8629b4203d2ac84f6b5ba4d7837cfc66b1b03c9| 
