@@ -3,110 +3,83 @@
 第一階段：基本運算與輸入輸出 (1-5)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-1** |兩數之和 (Two Sum)|https://github.com/rgyu-gao/Coding-study-Python/commit/18d7d384c1d87842148fbb7036508cc084164b2b|
-| **P1-2** |圓面積計算 (Circle Area)  |https://github.com/rgyu-gao/Coding-study-Python/commit/187d63e28d43eb4bcf4649cf874435211aad4ff0|
-| **P1-3** |溫標轉換 (Temperature Conversion)|https://github.com/rgyu-gao/Coding-study-Python/commit/2b194b8fd90891be4cc9c4aeb51bde5ae8986a5f|  
-| **P1-4** |變數交換 (Variable Swap)|https://github.com/rgyu-gao/Coding-study-Python/commit/e8629b4203d2ac84f6b5ba4d7837cfc66b1b03c9| 
-| **P1-5** |BMI 計算器 (BMI Calculator)|https://github.com/rgyu-gao/Coding-study-Python/commit/660696f97fae4693a6610b247f4f38e8c25a5b2f|  
+| **P1.** |兩數之和 (Two Sum)|https://github.com/rgyu-gao/Coding-study-Python/commit/18d7d384c1d87842148fbb7036508cc084164b2b|
+| **P2** |圓面積計算 (Circle Area)  |https://github.com/rgyu-gao/Coding-study-Python/commit/187d63e28d43eb4bcf4649cf874435211aad4ff0|
+| **P3** |溫標轉換 (Temperature Conversion)|https://github.com/rgyu-gao/Coding-study-Python/commit/2b194b8fd90891be4cc9c4aeb51bde5ae8986a5f|  
+| **P4** |變數交換 (Variable Swap)|https://github.com/rgyu-gao/Coding-study-Python/commit/e8629b4203d2ac84f6b5ba4d7837cfc66b1b03c9| 
+| **P5** |BMI 計算器 (BMI Calculator)|https://github.com/rgyu-gao/Coding-study-Python/commit/660696f97fae4693a6610b247f4f38e8c25a5b2f|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-6** |||
-| **P1-7** |||
-| **P1-8** |||  
-| **P1-9** ||| 
-| **P1-10** |||  
+| **P6** |奇偶數判斷 (Odd or Even)|https://github.com/rgyu-gao/Coding-study-Python/commit/be50e80b036adcca3ead51dbb54b084d88e307a9|
+| **P7** |閏年判斷 (Leap Year Check)|https://github.com/rgyu-gao/Coding-study-Python/commit/56cf8a7535982deec9daa9df2bfdca52a5955bf1|
+| **P8** |三數取最大值 (Find the Maximum)|https://github.com/rgyu-gao/Coding-study-Python/commit/62b58bbb76d80b02c0411e4f68e9d08e7147b8d2|  
+| **P9** |成績評等 (Grade Classification)|https://github.com/rgyu-gao/Coding-study-Python/commit/615bbc4db4290d5a6c42cfdee489d03354851101| 
+| **P10** |正負數判斷 (Positive, Negative, or Zero)|https://github.com/rgyu-gao/Coding-study-Python/commit/cdceb35a3c9b7278b1ab13cf11a6058ebf5ceb4e|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-1** |||
-| **P1-2** |||
-| **P1-3** |||  
-| **P1-4** ||| 
-| **P1-5** |||  
+| **P11** |累加求和 (1 ~ 100)|https://github.com/rgyu-gao/Coding-study-Python/commit/662e4688e5fa6ba9296f9e097b71872fc1410207|
+| **P12** |九九乘法表 (Multiplication Table)|https://github.com/rgyu-gao/Coding-study-Python/commit/e565b9ea37c654415794e6d2421a6bb8e51a21c4|
+| **P13** |階乘計算 (Factorial)|https://github.com/rgyu-gao/Coding-study-Python/commit/521f6e4ba2f4ebcde7671bfc7c4570cc2879afaf|  
+| **P14** |費氏數列 (Fibonacci Sequence)|https://github.com/rgyu-gao/Coding-study-Python/commit/fff7af9ff374b515830e2ebe4797beaf54cc61e7| 
+| **P15** |質數判斷 (Prime Number Check)|https://github.com/rgyu-gao/Coding-study-Python/commit/b237ee19d2aa538525622d38131851405c8d6726|  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-11** |||
-| **P1-12** |||
-| **P1-13** |||  
-| **P1-14** ||| 
-| **P1-15** |||  
+| **P16** |||
+| **P17** |||
+| **P18** |||  
+| **P19** ||| 
+| **P20** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-1** |||
-| **P1-2** |||
-| **P1-3** |||  
-| **P1-4** ||| 
-| **P1-5** |||  
+| **P21** |||
+| **P22** |||
+| **P23** |||  
+| **P24** ||| 
+| **P25** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-16** |||
-| **P1-17** |||
-| **P1-18** |||  
-| **P1-19** ||| 
-| **P1-20** |||  
+| **P26** |||
+| **P27** |||
+| **P28** |||  
+| **P29** ||| 
+| **P30** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-21** |||
-| **P1-22** |||
-| **P1-23** |||  
-| **P1-24** ||| 
-| **P1-25** |||  
-
-
-| 題號 | 題目名稱 | 原始碼 |
-| :--- | :--- | :--- |
-| **P1-21** |||
-| **P1-22** |||
-| **P1-23** |||  
-| **P1-24** ||| 
-| **P1-25** |||  
-
+| **P31** |||
+| **P32** |||
+| **P33** |||  
+| **P34** ||| 
+| **P35** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-26** |||
-| **P1-27** |||
-| **P1-28** |||  
-| **P1-29** ||| 
-| **P1-30** |||  
-
-
-| 題號 | 題目名稱 | 原始碼 |
-| :--- | :--- | :--- |
-| **P1-31** |||
-| **P1-32** |||
-| **P1-33** |||  
-| **P1-34** ||| 
-| **P1-35** |||  
+| **P36** |||
+| **P37** |||
+| **P38** |||  
+| **P39** ||| 
+| **P40** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-36** |||
-| **P1-37** |||
-| **P1-38** |||  
-| **P1-39** ||| 
-| **P1-40** |||  
+| **P41** |||
+| **P42** |||
+| **P43** |||  
+| **P44** ||| 
+| **P45** |||  
 
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P1-41** |||
-| **P1-42** |||
-| **P1-43** |||  
-| **P1-44** ||| 
-| **P1-45** |||  
-
-| 題號 | 題目名稱 | 原始碼 |
-| :--- | :--- | :--- |
-| **P1-46** |||
-| **P1-47** |||
-| **P1-48** |||  
-| **P1-49** ||| 
-| **P1-50** |||  
+| **P46** |||
+| **P47** |||
+| **P48** |||  
+| **P49** ||| 
+| **P50** |||  
 
 
 第一階段：基本運算與輸入輸出 (1-5)
