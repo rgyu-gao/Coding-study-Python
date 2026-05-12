@@ -9,6 +9,7 @@
 | **P4** |變數交換 (Variable Swap)|[變數交換 (Variable Swap)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/變數交換%20(Variable%20Swap)/p1-4.py)| 
 | **P5** |BMI 計算器 (BMI Calculator)|[BMI 計算器 (BMI Calculator)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/BMI%20計算器%20(BMI%20Calculator)/p1-5.py)|  
 
+第二階段：條件判斷 (6-10)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P6** |奇偶數判斷 (Odd or Even)|[奇偶數判斷 (Odd or Even)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/奇偶數判斷%20(Odd%20or%20Even)/p1-6.py)|
@@ -17,6 +18,7 @@
 | **P9** |成績評等 (Grade Classification)|[成績評等 (Grade Classification)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/成績評等%20(Grade%20Classification)/p1-9.py)| 
 | **P10** |正負數判斷 (Positive, Negative, or Zero)|[正負數判斷 (Positive, Negative, or Zero)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/正負數判斷%20(Positive%2C%20Negative%2C%20or%20Zero)/p1-10.py)|  
 
+第三階段：迴圈練習 (11-15)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P11** |累加求和 (1 ~ 100)|[累加求和 (1 ~ 100)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/累加求和%20(1%20~%20100)/p1-11.py)|
@@ -25,6 +27,7 @@
 | **P14** |費氏數列 (Fibonacci Sequence)|[費氏數列 (Fibonacci Sequence)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/費氏數列%20(Fibonacci%20Sequence)/p1-14.py)| 
 | **P15** |質數判斷 (Prime Number Check)|[質數判斷 (Prime Number Check)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/質數判斷%20(Prime%20Number%20Check)/p1-15.py)|  
 
+第四階段：數值邏輯與進階迴圈 (16-20)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P16** |||
@@ -33,6 +36,7 @@
 | **P19** ||| 
 | **P20** |||  
 
+第五階段：字串與串列操作 (21-25)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P21** |||
@@ -41,6 +45,7 @@
 | **P24** ||| 
 | **P25** |||  
 
+第六階段：綜合邏輯 (26-30)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P26** |||
@@ -49,6 +54,7 @@
 | **P29** ||| 
 | **P30** |||  
 
+第七階段：
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
 | **P31** |||
