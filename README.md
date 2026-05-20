@@ -30,11 +30,12 @@
 第四階段：數值邏輯與進階迴圈 (16-20)
 | 題號 | 題目名稱 | 原始碼 |
 | :--- | :--- | :--- |
-| **P16** |||
-| **P17** |||
-| **P18** |||  
-| **P19** ||| 
-| **P20** |||  
+| **P16** |找出清單中的最大值 (Find Max in a List)|[找出清單中的最大值 (Find Max in a List)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/找出清單中的最大值%20(Find%20Max%20in%20a%20List)/p1-16.py)|
+| **P17** |找出清單中的最小值與平均值 (Find Min and Average in a List)|[找出清單中的最小值與平均值 (Find Min and Average in a List)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/找出清單中的最小值與平均值%20(Find%20Min%20and%20Average%20in%20a%20List)/p1-17.py)|
+| **P18** |清單數字反轉 (List Reversal)|[清單數字反轉 (List Reversal)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/清單數字反轉%20(List%20Reversal)/p1-18.py)|  
+| **P18 extend** |雙指針原地交換法 (In-place Swap with Two Pointers)|[雙指針原地交換法 (In-place Swap with Two Pointers)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/雙指針原地交換法%20(In-place%20Swap%20with%20Two%20Pointers)/p1-18-extend.py)| 
+| **P19** |清單元素篩選（奇數與偶數分類）|[清單元素篩選（奇數與偶數分類）](https://github.com/rgyu-gao/Coding-study-Python/blob/main/清單元素篩選（奇數與偶數分類）/p1-19.py)| 
+| **P20** |計算元素出現次數 (Count Occurrences)|[計算元素出現次數 (Count Occurrences)](https://github.com/rgyu-gao/Coding-study-Python/blob/main/計算元素出現次數%20(Count%20Occurrences)/p1-20.py)|  
 
 第五階段：字串與串列操作 (21-25)
 | 題號 | 題目名稱 | 原始碼 |
